@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'SimSun';
+    src: url('simsun.ttf') format('truetype');
+	font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SimKai';
+    src: url('simkai.ttf') format('truetype');
+	font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SimHei';
+    src: url('simhei.ttf') format('truetype');
+	font-weight: normal;
+    font-style: normal;
+}
